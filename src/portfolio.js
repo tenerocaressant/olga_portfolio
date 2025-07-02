@@ -141,7 +141,7 @@ const bigProjects = {
   subtitle: "Key initiatives where I led product strategy, design collaboration, and cross-functional execution",
 projects: [
     {
-      image: require("./assets/images/support_dashboard.webp"), // Replace with actual image file
+      image: require("./assets/images/nextuLogo.webp"), // Replace with actual image file
       projectName: "Customer Support Dashboard",
       projectDesc:
         "Designed and launched a new internal support dashboard that improved customer satisfaction by 18% and cut resolution time by 30%. Reduced queue times from 10 to 5 minutes by streamlining workflows.",
@@ -153,7 +153,7 @@ projects: [
       ]
     },
     {
-      image: require("./assets/images/search_revamp.webp"),
+      image: require("./assets/images/nextuLogo.webp"),
       projectName: "Search Experience Revamp",
       projectDesc:
         "Led overhaul of the product’s search experience, reducing no-search-result queries from 30% to 4%. Improved product performance 2x and usability score from 2.4 to 4.3 through user testing and iterative UI/UX improvements.",
@@ -165,7 +165,7 @@ projects: [
       ]
     },
     {
-      image: require("./assets/images/car_platform.webp"),
+      image: require("./assets/images/nextuLogo.webp"),
       projectName: "Car Sales & Bidding Platform",
       projectDesc:
         "Developed and launched two MVPs for a car sales and bidding platform. Conducted market analysis and defined user flows, resulting in a 20% increase in user engagement and a 1.5x faster user journey.",
