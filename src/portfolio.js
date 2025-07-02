@@ -59,7 +59,7 @@ const skillsSection = {
 
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
-  {
+  schools: [{
     schoolName: "V.N. Karazin Kharkiv National University",
     subHeader: "Master of Science in Biochemistry",
     duration: "2012",
@@ -68,7 +68,7 @@ const educationInfo = {
     schoolName: "Certifications",
     subHeader: "Google Project Management, Google UX Design, Digital Product Management (UVA Darden)",
     duration: "2021–2022",
-  },
+  }]
 };
 
 // Your top 3 proficient stacks/tech experience
