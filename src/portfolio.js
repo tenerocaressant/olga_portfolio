@@ -193,6 +193,26 @@ const contactInfo = {
   email_address: "slyeptsova.olga@gmail.com",
 };
 
+const achievementSection = {
+  display: false,
+}
+
+const blogSection = {
+  display: false,
+}
+
+const talkSection = {
+  display: false,
+}
+
+const podcastSection = {
+  display: false,
+}
+
+const twitterDetails = {
+  display: false,
+}
+
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
@@ -207,5 +227,11 @@ export {
   bigProjects,
   contactInfo,
   isHireable,
-  resumeSection
+  resumeSection,
+  openSource,
+  achievementSection,
+  blogSection,
+  talkSection,
+  podcastSection,
+  twitterDetails
 };
