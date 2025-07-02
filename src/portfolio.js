@@ -183,7 +183,8 @@ projects: [
 // Resume Section
 const resumeSection = {
   title: "Resume",
-  subtitle: "Feel free to download my resume",
+  subtitle: "Feel free to download my resume"
+}
 
 const contactInfo = {
   title: "Contact Me ☕",
